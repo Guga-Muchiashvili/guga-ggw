@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Guga muchiashvili</h1>
-<h3 align="center">15 Years old Front-end developer from Georgia</h3>
+🏄‍♂️ Guga Muchiashvili
+<h3 align="center">16 Years old React developer from Georgia</h3>
+currently working at Making Science Sweeft
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guga-ggw&label=Profile%20views&color=0e75b6&style=flat" alt="guga-ggw" /> </p>
 
@@ -13,16 +14,29 @@
 
 - ⚡ Fun fact **i really like sport, and i alswo play on guitar pretty well**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/guga muchiashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guga muchiashvili" height="30" width="40" /></a>
-<a href="https://instagram.com/guga_muchiashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guga_muchiashvili" height="30" width="40" /></a>
-<a href="https://discord.gg/guga1770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guga1770" height="30" width="40" /></a>
-</p>
+### 🧰 Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="React Hook Form" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" />
+<img align="left" alt="React Router" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" />
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="Zod" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/13995665?s=200&v=4" />
+<img align="left" alt="MUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="Strapi" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" />
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guga-ggw&show_icons=true&locale=en&layout=compact" alt="guga-ggw" /></p>
+#
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guga-ggw&show_icons=true&locale=en" alt="guga-ggw" /></p>
+### 📊 Stats
+
+![Guga's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga-muchiashvili&show_icons=true&theme=gruvbox)
