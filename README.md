@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [guga-ggw's GitHub](https://github.com/guga-ggw)
+- 👨‍💻 All of my projects are available at [guga-ggw's GitHub](https://github.com/guga-muchiashvili)
 
 - 💬 Ask me about **React, Next.js**
 
